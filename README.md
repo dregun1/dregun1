@@ -21,7 +21,7 @@
 <br/>
 
 ## 📜 Certifications
-- 🇰🇷 **정보처리기사** (Engineer Information Processing)
+- **정보처리기사** (Engineer Information Processing)
 - ☁️ **AWS Certified Solutions Architect – Associate** (SAA)
 
 <br/>
