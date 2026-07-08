@@ -1,6 +1,6 @@
-# Hi there! I'm 장민우 🚀
+# 안녕하세요 장민우입니다. 🚀
 
-### "끊임없이 성장하고 인프라와 코드를 연결하는 Backend & DevOps Engineer 입니다."
+### "성장하고 있는 Backend & DevOps Engineer 입니다."
 
 
 <br/>
