@@ -1,6 +1,6 @@
 # 안녕하세요 장민우입니다. 🚀
 
-### "성장하고 있는 Backend & DevOps Engineer 입니다."
+
 
 
 <br/>
